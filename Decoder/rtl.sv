@@ -77,4 +77,4 @@ module decoder(
         endcase
     end
 
-endmodule
+endmodule   
